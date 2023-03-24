@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{842DCD43-9EA7-70A1-8D76-5BF83EC6B814}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Kawaii_Tanks_Project/Scripts/FPS_Counter_CS.cs">
+    <Files>
+      <File FileName="Assets/Kawaii_Tanks_Project/Scripts/Errot_Test_CPP.cs" Line="1" Column="1" />
+      <File FileName="Assets/Kawaii_Tanks_Project/Scripts/FPS_Counter_CS.cs" Line="41" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="0322_Tank_NoSol" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Kawaii_Tanks_Project" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="FPS_Counter_CS.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="aae31c31-a1f1-4260-8e47-cbed131c945a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

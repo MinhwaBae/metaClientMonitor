@@ -1,0 +1,30 @@
+﻿'How to Start' (Ver.2.1)
+
+Please feel free to contact me if you have any questions.
+shopmaster@chobi-glass.com
+http://chobi-glass.com/Unity/index.html
+
+Online manual
+https://docs.google.com/document/d/1CruYMWqorkrTxJLhggHg_CSno5OLOx403PDQ8LFEEiY/edit?usp=sharing
+
+
+*** How to Start ***
+
+(1) Create a new project, and import this package from Package Manager.
+	Window >> Package Manager >> "My Assets".
+
+
+(2) Switch the Platform when you need.
+	Switch the platform to 'Android' or 'iOS' when you need touch controls.
+	You can change the platform from the "Build Settings" (File >> Build Settings…).
+
+(3) Play the demo scenes.
+	You can find the demo scenes in the "Scenes" folder.
+	I recommend you to first play the demo scene "99_Training".
+
+
+*** About to the Sky Boxes ***
+The Sky Boxes in the demo videos and games are included in "Standard Assets for Unity 4.6".
+However the package has been deprecated from the Asset Store.
+If you have downloaded it before, you can import it from the "My Assets" in the "Asset Store" window.
+
